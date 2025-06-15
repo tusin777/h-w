@@ -1,0 +1,22 @@
+.user-badge {
+  border: 2px dashed #3986fa;
+  padding: 1.2rem;
+  margin: 1.2rem auto;
+  max-width: 280px;
+  background: #f7fbff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.user-badge h2 {
+  color: #1659a6;
+  margin: 0 0 0.7rem;
+}
+
+.user-badge p {
+  color: #3a3a3a;
+  margin: 0.1rem 0;
+  font-size: 1rem;
+}
+
+/* TODO: Поэкспериментируйте с цветами, рамкой, фоном и шрифтами */
